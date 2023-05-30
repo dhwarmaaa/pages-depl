@@ -2,7 +2,7 @@
   "name": "pages-depl",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dhwarmaaa.github.io//pages-depl",
+  "homepage": "https://dhwarmaaa.github.io/pages-depl",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
